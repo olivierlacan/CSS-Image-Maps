@@ -16,3 +16,6 @@ unordered list.
 I have not cross-browser proofed the CSS stylesheet since I only tested
 within Chrome so if you wish to use this code in production I recommend 
 Paul Irish & Jonathan Neal's excellent [CSS3 Please](http://css3please.com/).
+
+## Demo
+You can see a live demo [on my personal site](http://olivierlacan.com/projects/css/css_image_maps).
